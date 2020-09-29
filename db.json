@@ -1,31 +1,37 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "workerId": "A1CGW3DQ5JRSJH",
+    "condition": 1,
+    "size": 2,
+    "choice": 11,
+    "payoff": 90
+  },
+  {
+    "workerId": "A2Q39WMBAU71OE",
+    "condition": 2,
+    "size": 6,
+    "choice": 22,
+    "payoff": 10
+  },
+  {
+    "workerId": "A1ZQ4Q7DXAE35B",
+    "condition": 3,
+    "size": 2,
+    "choice": 35,
+    "payoff": 74
+  },
+  {
+    "workerId": "A171S8E9IFSHH2",
+    "condition": 1,
+    "size": 2,
+    "choice": 12,
+    "payoff": 49
+  },
+  {
+    "workerId": "A39ROW50DWRRKT",
+    "condition": 2,
+    "size": 6,
+    "choice": 21,
+    "payoff": 100
   }
-}
+]
